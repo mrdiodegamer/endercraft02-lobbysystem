@@ -1,0 +1,8 @@
+name: EnderCraft02-Lobbysystem
+version: b1.0
+author: Diode aka. DatIsDiode
+main: me.diode.craft02.main.Main
+commands:
+  fly:
+  build:
+  set:
